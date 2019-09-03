@@ -1,0 +1,9 @@
+D:\Project_s\algorithms\algorithms\library\bin\Debug\netstandard2.0\library.deps.json
+D:\Project_s\algorithms\algorithms\library\bin\Debug\netstandard2.0\library.dll
+D:\Project_s\algorithms\algorithms\library\bin\Debug\netstandard2.0\library.pdb
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.dll
+D:\Project_s\algorithms\algorithms\library\obj\Debug\netstandard2.0\library.pdb

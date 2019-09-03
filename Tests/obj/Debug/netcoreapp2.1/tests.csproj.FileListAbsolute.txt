@@ -1,0 +1,17 @@
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\tests.dll
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\tests.pdb
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\library.dll
+D:\Project_s\algorithms\algorithms\tests\bin\Debug\netcoreapp2.1\library.pdb
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.csproj.CopyComplete
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.dll
+D:\Project_s\algorithms\algorithms\tests\obj\Debug\netcoreapp2.1\tests.pdb
